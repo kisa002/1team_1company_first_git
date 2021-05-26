@@ -1,15 +1,1 @@
-#include<stdio.h>
-
-int main()
-{
-	char name[10];
-	int age;
-	
-	printf("¥ÁΩ≈¿« ¿Ã∏ß¿ª ¿‘∑¬«œººø‰: ");
-	scanf("%s", name);
-	
-	printf("¥ÁΩ≈¿« ≥™¿Ã∏¶ ¿‘∑¬«œººø‰: ");
-	scanf("%d", &age);
-	
-	printf("π›∞©Ω¿¥œ¥Ÿ %s¥‘!\n¥ÁΩ≈¿∫ %dªÏ¿Ã±∫ø‰!", name, age);
-}
+æ∆∆R≈à∆R 
